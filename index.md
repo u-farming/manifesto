@@ -22,6 +22,9 @@ https://it.wikipedia.org/wiki/Agricoltura_urbana#Fatti
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/99hVAu1k6G8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kaNO09cPS6c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+... plus a belief in our tools ability to [rewrite history](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History).
+
 ## Signatories
 
 wip
