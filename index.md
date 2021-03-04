@@ -15,6 +15,7 @@ the right, we value the items on the left much more.
 
 ## Motivation
 
+- [English](https://translate.google.com/translate?sl=de&tl=en&u=https://www.woz.ch/2109/zukunft-der-welternaehrung/raus-aus-der-industriellen-landwirtschaft)
 - [German](https://www.woz.ch/2109/zukunft-der-welternaehrung/raus-aus-der-industriellen-landwirtschaft)
 - https://de.wikipedia.org/wiki/Urbane_Landwirtschaft#Motivation
 - https://en.wikipedia.org/wiki/Urban_agriculture#Perspectives
